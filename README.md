@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Enrique, a Software Engenieer, with 7 years of experience
+- 👋 Hi, I’m Enrique, a Software Engineer, with 7 years of experience
 - 👀 I’m interested in ... backend programming wiht java, nodejs, elixir
 - 📫 How to reach me ... edpadron.cu@gmail.com
 
